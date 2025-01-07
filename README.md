@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="dev-gif.gif" alt="Header Image">
+  <img src="dev-gif.gif" alt="Header Image" style="width: 50%;">
   <br><br>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/harshil-dhaduk-4b05a5251])
