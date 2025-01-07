@@ -2,9 +2,9 @@
   <img src="dev-gif.gif" alt="Header Image" style="width: 50%;">
   <br><br>
 
-  [![LinkedIn](https://www.linkedin.com/in/harshil-dhaduk-4b05a5251)]
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](harshildhaduk99@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/harshil_dhaduk_01/])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshil-dhaduk-4b05a5251)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshildhaduk99@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/harshil_dhaduk_01/)
 
    <img src="https://camo.githubusercontent.com/e3844de59641a519801190fa44fc114f11e06b37209d62636a7f4b9312befd6c/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d6e697261766b756d6268616e6933302e6e697261766b756d6268616e69333026" alt="Header Image">
 </div>
@@ -16,11 +16,11 @@
 ## About me
 
 Hi, my name is harshil, and I am a web developer passionate about creating beautiful and user-friendly websites.  
-I have over a year of experience in the industry and am proficient in a variety of technologies, including HTML/CSS, JavaScript, Node.js, React.js.
+I have over a year of experience in the industry and am proficient in a variety of technologies, including **HTML/CSS**, **JavaScript**, **Node.js**, **React.js**.
 
-- 🚀 I'm currently working as a **web developer** 🧑‍💻  
-- 🌱 I'm currently learning React Native 📲  
-- 🎮 In my free time, I love to play games 🎮  
+-   🚀 I'm currently working as a **web developer** 🧑‍💻
+-   🌱 I'm currently learning **React Native** 📲
+-   🎮 In my free time, I love to **play games** 🎮
 
 ---
 
