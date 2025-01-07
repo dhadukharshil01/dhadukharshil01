@@ -2,9 +2,9 @@
   <img src="dev-gif.gif" alt="Header Image">
   <br><br>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/harshil-dhaduk-4b05a5251/))
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/harshil-dhaduk-4b05a5251])
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](harshildhaduk99@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/yourprofile](https://www.instagram.com/harshil_dhaduk_01/))
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/harshil_dhaduk_01/])
 
    <img src="https://camo.githubusercontent.com/e3844de59641a519801190fa44fc114f11e06b37209d62636a7f4b9312befd6c/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d6e697261766b756d6268616e6933302e6e697261766b756d6268616e69333026" alt="Header Image">
 </div>
