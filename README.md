@@ -2,7 +2,7 @@
   <img src="dev-gif.gif" alt="Header Image" style="width: 50%;">
   <br><br>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/harshil-dhaduk-4b05a5251])
+  [![LinkedIn](https://www.linkedin.com/in/harshil-dhaduk-4b05a5251)]
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](harshildhaduk99@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/harshil_dhaduk_01/])
 
