@@ -10,7 +10,7 @@
 </div>
 
 
-                                                ## Hey 👋 What's up?
+<div align="center" >  Hey 👋 What's up?</div>
 
 ## About me
 
