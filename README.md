@@ -11,7 +11,7 @@
 
 
 <div align="center" >  Hey 👋 What's up?</div>
-
+---
 ## About me
 
 Hi, my name is harshil, and I am a web developer passionate about creating beautiful and user-friendly websites.  
