@@ -47,7 +47,7 @@ I'm a **Web Developer** with a passion for building beautiful, user-friendly web
 
 Feel free to explore my projects and portfolio:
 
-- [GitHub](https://github.com/your-username)  
+- [GitHub](https://github.com/dhadukharshil01)  
 - [Portfolio](#) (Update with your portfolio link)
 
 ---
