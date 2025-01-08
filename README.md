@@ -22,20 +22,21 @@ I'm a **Web Developer** with a passion for building beautiful, user-friendly web
 ## 🛠️ Technologies & Tools
 
 ### 🔧 Programming Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=yellow) 
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=yellow) 
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white) 
+
 
 ### ⚙️ Frameworks & Libraries
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?logo=bootstrap&logoColor=white) 
 ![React](https://img.shields.io/badge/React-blue?logo=react&logoColor=white) 
 ![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?logo=bootstrap&logoColor=white) 
 
 ### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb&logoColor=white)
 
 ### 🛠️ Other Tools
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
