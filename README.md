@@ -1,36 +1,50 @@
 <div align="center">
-  <img src="dev-gif.gif" alt="Header Image" style="width: 50%;">
+  <img src="dev-gif.gif" alt="Developer at work" style="width: 50%;">
   <br><br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshil-dhaduk-4b05a5251)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshildhaduk99@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/harshil_dhaduk_01/)
-
-   <img src="https://camo.githubusercontent.com/e3844de59641a519801190fa44fc114f11e06b37209d62636a7f4b9312befd6c/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d6e697261766b756d6268616e6933302e6e697261766b756d6268616e69333026" alt="Header Image">
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshil-dhaduk-4b05a5251)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshildhaduk99@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/harshil_dhaduk_01/)
 </div>
-
-
-<div align="center" >  Hey 👋 What's up?</div>
-
-
-## About me
-
-Hi, my name is harshil, and I am a web developer passionate about creating beautiful and user-friendly websites.  
-I have over a year of experience in the industry and am proficient in a variety of technologies, including **HTML/CSS**, **JavaScript**, **Node.js**, **React.js**.
-
--   🚀 I'm currently working as a **web developer** 🧑‍💻
--   🌱 I'm currently learning **React Native** 📲
--   🎮 In my free time, I love to **play games** 🎮
 
 ---
 
-## 🛠️ Language and Tools
+## 👋 About Me
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+Hi, I'm **Harshil**, a web developer passionate about creating beautiful and user-friendly websites.  
+I have over a year of experience and am proficient in **HTML/CSS**, **JavaScript**, **Node.js**, and **React.js**.
+
+- 🚀 I'm currently working as a **Web Developer** 🧑‍💻  
+- 🌱 I'm learning **React Native** 📲  
+- 🎮 I enjoy playing games in my free time!  
+
+---
+
+## 🛠️ Technologies and Tools
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=yellow) 
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white) 
+![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
+
+### Frameworks
+![React](https://img.shields.io/badge/React-blue?logo=react&logoColor=white) 
+![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?logo=bootstrap&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb&logoColor=white)
+
+### Other Tools
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🌐 Portfolio
+
+Check out my portfolio [here](#) or explore my projects on [GitHub](https://github.com/).
+
