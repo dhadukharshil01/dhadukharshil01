@@ -27,11 +27,11 @@ I'm a **Web Developer** with a passion for building beautiful, user-friendly web
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=yellow) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white) 
 
-
 ### ⚙️ Frameworks & Libraries
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?logo=bootstrap&logoColor=white) 
 ![React](https://img.shields.io/badge/React-blue?logo=react&logoColor=white) 
 ![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white) 
+![Express.js](https://img.shields.io/badge/Express.js-grey?logo=express&logoColor=white)
 
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb&logoColor=white)
@@ -39,7 +39,6 @@ I'm a **Web Developer** with a passion for building beautiful, user-friendly web
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql&logoColor=white) 
 
 ### 🛠️ Other Tools
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
@@ -54,4 +53,3 @@ Feel free to explore my projects and portfolio:
 ---
 
 Thank you for visiting my profile! Feel free to reach out if you'd like to collaborate on a project or just have a chat. 👨‍💻
-
