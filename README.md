@@ -29,6 +29,7 @@ I'm a **Web Developer** with a passion for building beautiful, user-friendly web
 
 ### ⚙️ Frameworks & Libraries
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?logo=bootstrap&logoColor=white) 
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/React-blue?logo=react&logoColor=white) 
 ![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/Express.js-grey?logo=express&logoColor=white)
