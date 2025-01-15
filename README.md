@@ -22,10 +22,10 @@ I'm a **Web Developer** with a passion for building beautiful, user-friendly web
 ## 🛠️ Technologies & Tools
 
 ### 🔧 Programming Languages
-![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=yellow) 
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white) 
+[![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)](https://www.w3schools.com/html/)
+[![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)](https://www.w3schools.com/css/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=yellow)](https://www.w3schools.com/js/) 
+[![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
 ### ⚙️ Frameworks & Libraries
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?logo=bootstrap&logoColor=white) 
